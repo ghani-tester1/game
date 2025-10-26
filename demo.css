@@ -1,0 +1,50 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.thumbnail {
+  display: block;
+  margin: 52px;
+  border-radius: 15px;
+}
+
+.action {
+  font-weight: bold;
+  display: inline-block;
+  margin-left: 30px;
+}
+
+.view {
+  color: blueviolet;
+  display: inline-block;
+  margin-left: 530px;
+}
+
+.view-all {
+  background-color: rgb(30, 233, 30);
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-radius: 25px;
+  margin-left: 4px;
+  margin-bottom: 12px;
+}
+
+.paragraph {
+  display:block;
+}
+
+.thumbnail-game {
+  display: inline-block;
+}
+
+.game-thumbnail {
+  border-radius: 15px;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 12px;
+}
+
