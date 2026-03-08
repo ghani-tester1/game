@@ -1,0 +1,22 @@
+# Glossary of Algorithmic Trading Terms
+
+- **Algorithm**: A set of rules or instructions given to a computer to perform a task.
+- **API (Application Programming Interface)**: A set of rules and tools for building software and applications. In trading, it allows your program to connect to a broker's platform.
+- **Backtesting**: The process of testing a trading strategy on historical data to evaluate its performance.
+- **Bid-Ask Spread**: The difference between the highest price a buyer is willing to pay for an asset (bid) and the lowest price a seller is willing to accept (ask).
+- **Broker**: A financial services company that provides traders with access to the market.
+- **Candlestick Chart**: A type of financial chart that shows the high, low, open, and closing prices of a security for a specific period.
+- **Diversification**: A risk management strategy that involves investing in a variety of assets to reduce the impact of price fluctuations in any single asset.
+- **Execution**: The completion of a buy or sell order.
+- **High-Frequency Trading (HFT)**: A type of algorithmic trading characterized by high speeds, high turnover rates, and high order-to-trade ratios.
+- **Latency**: The delay between the time a trade is initiated and the time it is executed.
+- **Liquidity**: The degree to which an asset can be quickly bought or sold in the market without affecting its price.
+- **Moving Average**: A widely used technical indicator that helps smooth out price action by filtering out the "noise" from random short-term price fluctuations.
+- **Order Book**: A list of buy and sell orders for a specific security, organized by price level.
+- **Position Sizing**: The process of determining how many units of a security to trade per position.
+- **Risk Management**: The process of identifying, assessing, and controlling threats to an organization's capital and earnings.
+- **Slippage**: The difference between the expected price of a trade and the price at which the trade is actually executed.
+- **Stop-Loss Order**: An order placed with a broker to buy or sell a security once it reaches a certain price. Stop-loss orders are designed to limit a trader's loss on a security position.
+- **Strategy**: A predefined set of rules that a trading algorithm follows to make decisions.
+- **Technical Indicators**: Heuristic or pattern-based signals produced by the price, volume, and/or open interest of a security or contract.
+- **Volatility**: The degree of variation of a trading price series over time.
